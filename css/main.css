@@ -1,0 +1,30 @@
+.site-header {
+  text-align: center;
+}
+
+.container {
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: darkslategray;
+  color: white;
+  text-align: center;
+  background-image: url(../images/FST-Hedwig-Set-980x650.jpg);
+  background-position: 50% 21%;
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.middle-section {
+  display: flex;
+}
+
+.left-col {
+  background-color: bisque;
+}
+
+.right-col {
+  background-color: aqua;
+}
+
+/*# sourceMappingURL=main.css.map */
